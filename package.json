@@ -1,0 +1,13 @@
+{
+  "name": "paiton_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.11",
+    "typescript": "^3.2.1"
+  },
+  "scripts": {
+    "start": "tsc -w"
+  }
+}
